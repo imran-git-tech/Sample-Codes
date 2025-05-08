@@ -12,4 +12,6 @@ print(f"Word count: {word_count}")
 
 ##
 
-Practice twice said program
+1. Practice twice said program
+
+2. addig to the new branch - my-first-branch
